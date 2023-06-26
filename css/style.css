@@ -1,0 +1,19 @@
+.product {
+  border: 1px solid skyblue;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+.buy_cart_div {
+  padding: 50px;
+  border-left: 1px solid forestgreen;
+}
+.cart {
+}
+.cart_item {
+  border: 1px solid skyblue;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 10px 0;
+}
